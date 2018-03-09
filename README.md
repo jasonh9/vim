@@ -8,11 +8,9 @@ programming enviornment.
 
 Here are the required dependencies for my VIM setup.
 
-* VIM
-* Pathogen
-* Solarized terminal colors
-* YouCompleteMe code-completion
-* NERDTree
-* Vim-airline 
-
-
+* VIM (install from your distro package manager, or compile from binary...)
+* [Pathogen](https://github.com/tpope/vim-pathogen.git)
+* [Solarized terminal colors](https://github.com/altercation/vim-colors-solarized.git)
+* [YouCompleteMe code-completion](https://github.com/Valloric/YouCompleteMe.git)
+* [NERDTree](https://github.com/scrooloose/nerdtree.git)
+* [Vim-airline](https://github.com/vim-airline/vim-airline.git)
