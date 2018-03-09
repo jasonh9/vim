@@ -5,3 +5,14 @@ editors like atom, notepad++, sublime text, and others alike are great editors b
 more resources than vim, not only that but once you learn all the hotkeys and obtain master level competence with
 vim modes the sky is the limit with what you can do. Vim plugins are also great resources for creating an ultimate
 programming enviornment.
+
+Here are the required dependencies for my VIM setup.
+
+* VIM
+* Pathogen
+* Solarized terminal colors
+* YouCompleteMe code-completion
+* NERDTree
+* Vim-airline 
+
+
