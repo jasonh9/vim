@@ -39,3 +39,5 @@ Feel free to hack it apart and make it to your liking.
 
 ##### Enviornment in action!
 
+
+![action_gif](https://github.com/jasonh9/vim/blob/master/vim_dev_working.gif?raw=true)
