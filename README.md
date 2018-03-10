@@ -14,6 +14,7 @@ Here are the required dependencies for my VIM setup.
 * [YouCompleteMe code-completion](https://github.com/Valloric/YouCompleteMe.git)
 * [NERDTree](https://github.com/scrooloose/nerdtree.git)
 * [Vim-airline](https://github.com/vim-airline/vim-airline.git)
+* [Vim-airlne-themes](https://github.com/vim-airline/vim-airline-themes.git)
 * [Vim-gitgutter](https://github.com/airblade/vim-gitgutter.git)
 
 ##### Consolidate Vim extra files [ swap, locks, etc ]

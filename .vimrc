@@ -22,7 +22,10 @@ map <F9> :w <CR> :!clear && make all<CR>
 " compile, run, then clean
 map <C-F9> :w <CR> :!clear && echo -e 'Executing MAKE ALL ...\n' && make all && echo -e '\n\n________________________________________\n' && ./testDriver && echo -e '\n________________________________________\n' && echo -e 'Executing MAKE CLEAN...\n' && make clean<CR>
 
-
+" vim airline themes
+let g:airline_theme='base16'
+let g:airline_powerline_fonts = 1
+" vim-gitgutter
 
 
 " YCM extra stuff
